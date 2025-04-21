@@ -1,3 +1,0 @@
-[submodule "android/src/main/cpp/oboe"]
-	path = android/src/main/cpp/oboe
-	url = https://github.com/google/oboe
