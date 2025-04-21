@@ -1,0 +1,9 @@
+[settings]
+build_type=Release
+compiler=clang
+compiler.libcxx=libc++
+compiler.version=9
+os=Android
+os.api_level=21
+[env]
+CONAN_CMAKE_TOOLCHAIN_FILE=${ANDROID_HOME}/ndk/21.4.7075529/build/cmake/android.toolchain.cmake

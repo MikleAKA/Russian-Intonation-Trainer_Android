@@ -1,0 +1,12 @@
+build*
+*.user
+#*.cmake
+3rd-party
+cmake-build-debug
+.idea
+local.properties
+*.iml
+gradle/
+.gradle
+local.properties
+
